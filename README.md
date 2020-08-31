@@ -1,4 +1,7 @@
 # CodeIgniter 4 + React
+This project is an attempt to create a template for a CodeIgniter 4 project that serves a React frontend.  
+It uses [create-react-app](https://create-react-app.dev) for the React frontend.  
+Supports PHP 7, ES6, JSX, and SCSS.
 
 ## Requirements
 1. XAMPP (on Windows or Mac) or Apache (on Linux)

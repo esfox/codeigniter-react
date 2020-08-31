@@ -88,7 +88,6 @@ vendor/
 #-------------------------
 # NPM
 #-------------------------
-
 frontend/node_modules/
 
 #-------------------------
@@ -131,3 +130,7 @@ nb-configuration.xml
 /phpunit*.xml
 /.phpunit.*.cache
 
+#-------------------------
+# CSS Map Files
+#-------------------------
+*.css.map
