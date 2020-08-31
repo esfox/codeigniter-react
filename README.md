@@ -1,4 +1,4 @@
-# CodeIgniter + React
+# CodeIgniter 4 + React
 
 ## Requirements
 1. XAMPP (on Windows or Mac) or Apache (on Linux)
