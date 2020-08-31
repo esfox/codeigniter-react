@@ -5,7 +5,7 @@ Supports PHP 7, ES6, JSX, and SCSS.
 
 ## Requirements
 1. XAMPP (on Windows or Mac) or Apache (on Linux)
-2. PHP
+2. PHP 7.2 or higher
 3. Composer
 4. Node.js
 
